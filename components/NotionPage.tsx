@@ -333,7 +333,6 @@ export function NotionPage({
         footer={footer}
       />
 
-      <GitHubShareButton />
     </>
   )
 }
